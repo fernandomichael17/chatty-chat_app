@@ -60,4 +60,4 @@ Chatty adalah aplikasi chat forum berbasis web yang memungkinkan pengguna untuk 
 
 ---
 
-Aplikasi ini dibuat untuk keperluan skripsi dan dapat dikembangkan lebih lanjut sesuai kebutuhan.
+Aplikasi ini dibuat untuk keperluan project iseng dan dapat dikembangkan lebih lanjut sesuai kebutuhan.
